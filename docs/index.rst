@@ -1,0 +1,3 @@
+===============shroombase.core
+===============
+User documentation
